@@ -1,3 +1,3 @@
-Here I am sotring my favorite Urban-coding places. 
+Here I am storing my favorite Urban-coding places. 
 
-I am exprementing with a format, Contry per branch.
+I am exprementing with a format. Currently, every  contry has it's own  branch.
