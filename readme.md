@@ -1,6 +1,6 @@
 #Sweden 🇸🇪
 ##Malmö
-###[Minc](www.minc.se/)
+###[Minc](http://www.minc.se {:target="_blank"})
 >Co-working space with a good & cozy cantinee
 
 | Address | Opening Hours | Food |
@@ -11,8 +11,8 @@
 ![](https://cloud.githubusercontent.com/assets/1571406/19784396/f111c694-9c95-11e6-8a49-83c6cf5b7f8a.png)
 
 
-###[Sockerbit](www.sockerbit.se)
->Little cafe with nice homamade pastrie and charming interior.
+###[Sockerbit](http://www.sockerbit.se {:target="_blank"})
+>Little cafe with nice homemade pastries and charming interior.
 
 | Address | Opening Hours | Food |
 |---------|---------------|------|
