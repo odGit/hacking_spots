@@ -1,3 +1,9 @@
-Here I am storing my favorite Urban-coding places. 
+Here I am storing my favourite Urban-coding places. 
 
-I am exprementing with a format. Currently, every  contry has it's own  branch.
+I am experimenting with a format. Currently, every  country has it's own  branch.
+
+Existing branches:
+ 
+	* Denmark
+	* Sweden 
+
