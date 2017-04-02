@@ -31,3 +31,9 @@
 #### Wi-Fi
 
 ![](https://cloud.githubusercontent.com/assets/1571406/23578746/1d4e5a5e-00de-11e7-8ccd-4c48cf893c5e.PNG)
+
+### [Tjili pop](http://tjili.dk/)
+
+#### Wi-Fi
+![](https://cloud.githubusercontent.com/assets/1571406/24588779/9b5567b4-17cf-11e7-8499-8bc71d125f80.png)
+
